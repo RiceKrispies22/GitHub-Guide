@@ -9,8 +9,7 @@ I will be talking about how to import your code from VS code into GitHub.
 ```This tells Github, “I want to include this file in my next respatory.” Basically, you’re marking it as ready to be saved.```
 
 # git commit -m "first commit"
-``` This saves your changes with a message explaining what you did. A commit is like a checkpoint of your project.
-```
+``` This saves your changes with a message explaining what you did. A commit is like a checkpoint of your project.```
 # git branch -M main
 ``` This renames your current branch to main, which is the standard default branch name on GitHub.```
 
